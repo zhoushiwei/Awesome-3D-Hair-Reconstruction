@@ -4,11 +4,11 @@
 
 ## 1. Hair reconstruction
 
-Year|Paper| Comment
+Year|Paper| Code
 :---:|:---:|:---:
 2016 TOG|[AutoHair: Fully Automatic Hair Modeling from A Single Image](http://eprints.whiterose.ac.uk/134268/)|FCN + CRF
 2016|[Hair Segmentation Using Heuristically-Trained Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7592406)|...
-2017|[Hair segmentation using adaptive threshold from edge and branch length measures](https://www.sciencedirect.com/science/article/pii/S0010482517302792)|...
+2018|[Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks](https://arxiv.org/abs/1811.06229)|[Hair-GAN](https://github.com/MengZephyr/HairGANs)
 2017 CVPR|[Deep Image Matting](http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Deep_Image_Matting_CVPR_2017_paper.html)|
 2017 ICME|[Automatic skin and hair masking using fully convolutional networks](https://ieeexplore.ieee.org/abstract/document/8019339)|FCN + CRF
 2018<br>Image and Vision Computing|[Hair detection, segmentation, and hairstyle classification in the wild](https://www.sciencedirect.com/science/article/pii/S0262885618300143)|...

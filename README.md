@@ -1,7 +1,5 @@
 # 3D human hair reconstruction
 
-## Catalogue
-
 ## 1. Hair reconstruction
 
 Year|Paper|Code|image

@@ -4,9 +4,9 @@
 
 ## 1. Hair reconstruction
 
-Year|Paper| Code
-:---:|:---:|:---:
-2016 TOG|[AutoHair: Fully Automatic Hair Modeling from A Single Image](http://eprints.whiterose.ac.uk/134268/)|
+Year|Paper|Code|image
+:---:|:---:|:---:|:---:
+2016 TOG|[AutoHair: Fully Automatic Hair Modeling from A Single Image](http://eprints.whiterose.ac.uk/134268/)|..|<img src="https://github.com/rozentill/digital-human-learning-papers/blob/master/figures/hair1.jpg" width="200">
 2016|[Hair Segmentation Using Heuristically-Trained Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7592406)|...
 2018|[Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks](https://arxiv.org/abs/1811.06229)|[Hair-GAN](https://github.com/MengZephyr/HairGANs)
 2017 CVPR|[Deep Image Matting](http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Deep_Image_Matting_CVPR_2017_paper.html)|

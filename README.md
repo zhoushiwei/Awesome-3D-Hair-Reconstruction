@@ -14,3 +14,7 @@ Year|Paper|Code|image
 SIGGRAPH ASIA 18|[3D Hair Synthesis Using Volumetric Variational Autoencoders](http://linjieluo.com/publications/3d-hair-synthesis-using-volumetric-variational-autoencoders/)|...
 SIGGRAPH ASIA 18|[Video to Fully Automatic 3D Hair Model](https://arxiv.org/pdf/1809.04765.pdf)|...
 
+## 1. Hair database
+
+Name|Link|image
+:---:|:---:|:---:

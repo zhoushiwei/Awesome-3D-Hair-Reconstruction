@@ -14,7 +14,7 @@ Year|Paper|Code|image
 2018 ECCV|[HairNet: Single-View Hair Reconstruction using Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Single-view_Hair_Reconstruction_ECCV_2018_paper.pdf)|[HairNet_DataSetGeneration](https://github.com/papagina/HairNet_DataSetGeneration) [HairNet_orient2D](https://github.com/papagina/HairNet_orient2D) [HairNet](https://github.com/suyuan945/HairNet)|<img src="https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/Single-view_Hair_Reconstruction.png" width="200">
 SIGGRAPH ASIA 18|[3D Hair Synthesis Using Volumetric Variational Autoencoders](http://linjieluo.com/publications/3d-hair-synthesis-using-volumetric-variational-autoencoders/)|...
 SIGGRAPH ASIA 18|[Video to Fully Automatic 3D Hair Model](https://arxiv.org/pdf/1809.04765.pdf)|...
-2023|[HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling]([https://arxiv.org/pdf/1809.04765.pdf]|...|<img src="[https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/Hao_Li.jpg](https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/HairStep.jpg)" width="200">
+2023|[HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling](https://arxiv.org/pdf/1809.04765.pdf)|...|<img src="[https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/Hao_Li.jpg](https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/HairStep.jpg)" width="200">
 
 ## 2. Hair database
 

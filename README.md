@@ -18,4 +18,4 @@ SIGGRAPH ASIA 18|[Video to Fully Automatic 3D Hair Model](https://arxiv.org/pdf/
 
 Name|image
 :---:|:---:
-[USC-HairSalon](http://www-scf.usc.edu/~liwenhu/SHM/database.html)
+[USC-HairSalon](http://www-scf.usc.edu/~liwenhu/SHM/database.html)|<img src="https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/hair.png" width="200">

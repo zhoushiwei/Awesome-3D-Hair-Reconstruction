@@ -7,7 +7,7 @@ Year|Paper|Code|image
 2015|[Single-View Hair Modeling Using A Hairstyle Database](https://www.hao-li.com/Hao_Li/Hao_Li_-_publications_%5bSingle-View_Hair_Modeling_Using_A_Hairstyle_Database%5d.html)|..|<img src="https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/Hao_Li.jpg" width="200">
 2016 TOG|[AutoHair: Fully Automatic Hair Modeling from A Single Image](http://eprints.whiterose.ac.uk/134268/)|..|<img src="https://github.com/zhoushiwei/awesome-3D-Hair-Reconstruction/blob/main/figures/autohair.jpg" width="200">
 2016|[Hair Segmentation Using Heuristically-Trained Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7592406)|...
-2018|[Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks](https://arxiv.org/abs/1811.06229)|[Hair-GAN](https://github.com/MengZephyr/HairGANs)
+2018|[Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks](https://arxiv.org/abs/1811.06229)|[Hair-GAN](https://github.com/MengZephyr/HairGANs)|<img src="https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/Hair-GANs.png" width="200">
 2018 CVPR|[3D Hair Synthesis Using Volumetric Variational Autoencoders](http://linjieluo.com/files/18-SIGA-3DHairSynthesisUsingVolumetricVAEs.pdf)|.|<img src="https://github.com/zhoushiwei/awesome-3D-Hair-Reconstruction/blob/main/figures/hairvae-teaser.jpeg" width="200">
 2017 ICME|[Automatic skin and hair masking using fully convolutional networks](https://ieeexplore.ieee.org/abstract/document/8019339)|
 2018<br>Image and Vision Computing|[Hair detection, segmentation, and hairstyle classification in the wild](https://www.sciencedirect.com/science/article/pii/S0262885618300143)|...

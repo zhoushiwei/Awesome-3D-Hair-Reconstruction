@@ -4,7 +4,7 @@
 
 Year|Paper|Code|image
 :---:|:---:|:---:|:---:
-2015|[SINGLE-VIEW HAIR MODELING USING A HAIRSTYLE DATABASE]([https://www.hao-li.com/Hao_Li/Hao_Li_-_publications_%5bSingle-View_Hair_Modeling_Using_A_Hairstyle_Database%5d.html](https://www.hao-li.com/publications/papers/siggraph2015SVHMUAHD.pdf))|..|
+2015|[SINGLE-VIEW HAIR MODELING USING A HAIRSTYLE DATABASE](https://www.hao-li.com/publications/papers/siggraph2015SVHMUAHD.pdf))|..|
 2015|[Single-View Hair Modeling Using A Hairstyle Database](https://www.hao-li.com/Hao_Li/Hao_Li_-_publications_%5bSingle-View_Hair_Modeling_Using_A_Hairstyle_Database%5d.html)|..|<img src="https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/Hao_Li.jpg" width="200">
 2016 TOG|[AutoHair: Fully Automatic Hair Modeling from A Single Image](http://eprints.whiterose.ac.uk/134268/)|..|<img src="https://github.com/zhoushiwei/awesome-3D-Hair-Reconstruction/blob/main/figures/autohair.jpg" width="200">
 2016|[Hair Segmentation Using Heuristically-Trained Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7592406)|...

@@ -1,4 +1,6 @@
-# 3D human hair reconstruction
+# Awesome 3D human hair reconstruction
+
+A curated list of related resources for 3d hair reconstrction. Feel free to contribute!
 
 ## 1. Hair reconstruction
 

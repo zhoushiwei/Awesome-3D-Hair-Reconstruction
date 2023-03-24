@@ -2,9 +2,9 @@
 
 A curated list of related resources for 3d hair reconstrction. Feel free to contribute!
 
-## 1. Hair reconstruction
+## Hair reconstruction
 
-Year|Paper|Code|image
+Year|Paper|Code|Preview
 :---:|:---:|:---:|:---:
 2015|[SINGLE-VIEW HAIR MODELING USING A HAIRSTYLE DATABASE](https://www.hao-li.com/publications/papers/siggraph2015SVHMUAHD.pdf))|..|
 2015|[Single-View Hair Modeling Using A Hairstyle Database](https://www.hao-li.com/Hao_Li/Hao_Li_-_publications_%5bSingle-View_Hair_Modeling_Using_A_Hairstyle_Database%5d.html)|..|<img src="https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/Hao_Li.jpg" width="200">
@@ -20,7 +20,7 @@ SIGGRAPH ASIA 18|[Video to Fully Automatic 3D Hair Model](https://arxiv.org/pdf/
 IEEE/CVF 2022|[NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_NeuralHDHair_Automatic_High-Fidelity_Hair_Modeling_From_a_Single_Image_Using_CVPR_2022_paper.pdf)|[NeuralHDHair](https://github.com/KeyuWu-CS/NeuralHDHair)|<img src="https://github.com/KeyuWu-CS/NeuralHDHair/blob/master/Pipeline.png" width="200">
 2023|[HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling](https://arxiv.org/pdf/1809.04765.pdf)|...|<img src="https://github.com/zhoushiwei/Awesome-3D-Hair-Reconstruction/blob/main/figures/HairStep.jpg" width="200">
 
-## 2. Hair database
+## Datasets
 
 Name|image
 :---:|:---:
